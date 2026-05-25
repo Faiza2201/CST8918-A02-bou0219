@@ -1,0 +1,8 @@
+config:
+  CST8918-A02-bou0219:frontendPort: "3001"
+  CST8918-A02-bou0219:backendPort: "3000"
+  CST8918-A02-bou0219:mongoPort: "27017"
+  CST8918-A02-bou0219:mongoHost: mongodb://mongo:27017
+  CST8918-A02-bou0219:database: cart
+  CST8918-A02-bou0219:nodeEnvironment: development
+  CST8918-A02-bou0219:protocol: https://
